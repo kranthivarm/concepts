@@ -70,5 +70,5 @@ Modern applications prefer **horizontal scaling**, especially in **microservices
 ## Sources
 
 
-1. [Load Balancing Basics - NGINX Docs](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/)  
-2. [System Design Basics - GeeksforGeeks](https://www.geeksforgeeks.org/scaling-in-system-design/)  
+1. [Load Balancing Basics - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/what-is-load-balancer-system-design/)
+2. [System Design Basics - GeeksforGeeks](https://www.geeksforgeeks.org/system-design/system-design-horizontal-and-vertical-scaling/)
