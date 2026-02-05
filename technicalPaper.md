@@ -1,10 +1,5 @@
 # Scaling and Load Balancing in a Live Project
 
-## Project Background
-
-When I joined the new project, the application was already live but was facing **performance degradation and scalability issues**. Users experienced **slow response times during peak hours**, **frequent timeouts**, and **occasional service downtime**. After analyzing server metrics such as **CPU usage, memory consumption, request latency, and error rates**, it became clear that the **single-server or limited-server architecture** could not handle the increasing traffic. To address this problem, the team lead asked me to investigate **scaling strategies** and the use of **load balancers**.
-
----
 
 ## Why Scaling Is Required
 
@@ -74,8 +69,7 @@ Modern applications prefer **horizontal scaling**, especially in **microservices
 
 ## Sources
 
-1. [Scaling Web Applications - AWS Documentation](https://aws.amazon.com/what-is/scaling/)  
-2. [Load Balancing Basics - NGINX Docs](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/)  
-3. [Vertical vs Horizontal Scaling - DigitalOcean](https://www.digitalocean.com/community/tutorials/vertical-vs-horizontal-scaling)  
-4. [Introduction to Load Balancing - HAProxy](https://www.haproxy.com/documentation/hapee/3-0r1/configuration/load-balancing/)  
-5. [System Design Basics - GeeksforGeeks](https://www.geeksforgeeks.org/scaling-in-system-design/)  
+
+1. [Load Balancing Basics - NGINX Docs](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/)  
+2. [Vertical vs Horizontal Scaling - DigitalOcean](https://www.digitalocean.com/community/tutorials/vertical-vs-horizontal-scaling)  
+3. [System Design Basics - GeeksforGeeks](https://www.geeksforgeeks.org/scaling-in-system-design/)  
